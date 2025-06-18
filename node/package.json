@@ -1,0 +1,15 @@
+{
+  "name": "atvdd",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gustavo",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "validator": "^13.15.15"
+  }
+}
